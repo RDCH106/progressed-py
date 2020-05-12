@@ -2,7 +2,7 @@
 
 import subprocess, time
 
-p = subprocess.Popen("python progressed-py/progressed.py", shell=True)
+p = subprocess.Popen("python progressed/progressed.py", shell=True)
 time.sleep(10)
 p.kill()
 p.wait()
