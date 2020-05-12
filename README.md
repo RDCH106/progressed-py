@@ -1,6 +1,7 @@
 # progressed-py
 
 [![License](https://img.shields.io/github/license/RDCH106/progressed-py.svg)](https://github.com/RDCH106/progressed-py/blob/master/LICENSE)
+[![Pypy](https://img.shields.io/badge/PyPy-3.5-ff69b4.svg)](https://pypy.org/)
 
 Progressbar microservice written in 🐍 Python
 
